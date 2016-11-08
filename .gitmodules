@@ -2,5 +2,5 @@
 	path = reservation-service
 	url = ./microservices/reservation-service/
 [submodule "config-service"]
-	path = coreservices/config-service
+	path = config-service
 	url = https://github.com/rajeshkannan/config-service.git
