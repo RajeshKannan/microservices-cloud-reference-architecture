@@ -1,0 +1,3 @@
+[submodule "reservation-service"]
+	path = reservation-service
+	url = ./microservices/reservation-service/
